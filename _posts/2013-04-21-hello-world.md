@@ -7,6 +7,7 @@ category:
 tags: []
 ---
 {% include JB/setup %}
+
 1. Test
 
 2. 终于简陋地搭起来了,但是反代还没生效的样子=-=
@@ -15,4 +16,4 @@ tags: []
 
 4. 以后，以后再说吧
 
-5. --EOF--
+ --EOF--
